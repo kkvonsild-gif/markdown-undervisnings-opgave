@@ -17,5 +17,31 @@
 ## Eksempel på et array i JavaScript
 
 ```
-const eksempelListe = [ting-1, ting-2, ting-3];
+const frugter = ["Æble", "Banan", "Appelsin"];
+
+for (let i = 0; i < frugter.length; i++) {
+  console.log(frugter[i]);
+}
 ```
+
+## Eksempel på navigation med tre links i HTML
+
+```
+<nav>
+  <ul>
+    <li><a href="index.html">Forside</a></li>
+    <li><a href="om-os.html">Om os</a></li>
+    <li><a href="kontakt.html">Kontakt</a></li>
+  </ul>
+</nav>
+```
+
+## KARTOFFEL.md
+
+![Dette er en kartoffel.](/Users/katrinevonsild/Downloads/potato_image.jpg)
+
+
+## Citat fra Albert Einstein
+
+"Fantasi er vigtigere end viden. For viden er begrænset, mens fantasi omfavner hele verden, stimulerer fremskridt og føder evolution."
+Kilde: Interview med George Sylvester Viereck, "What Life Means to Einstein", publiceret i The Saturday Evening Post, 26. oktober 1929.
