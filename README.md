@@ -38,10 +38,10 @@ for (let i = 0; i < frugter.length; i++) {
 
 ## KARTOFFEL.md
 
-![Dette er en kartoffel.](/Users/katrinevonsild/Downloads/potato_image.jpg)
+![Dette er en kartoffel.](/potato_image.jpg)
 
 
 ## Citat fra Albert Einstein
 
-"Fantasi er vigtigere end viden. For viden er begrænset, mens fantasi omfavner hele verden, stimulerer fremskridt og føder evolution."
-Kilde: Interview med George Sylvester Viereck, "What Life Means to Einstein", publiceret i The Saturday Evening Post, 26. oktober 1929.
+*"Fantasi er vigtigere end viden. For viden er begrænset, mens fantasi omfavner hele verden, stimulerer fremskridt og føder evolution."*
+**Kilde:** Interview med George Sylvester Viereck, "What Life Means to Einstein", publiceret i The Saturday Evening Post, 26. oktober 1929.
